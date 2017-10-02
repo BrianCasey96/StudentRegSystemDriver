@@ -5,10 +5,6 @@
  */
 package com.mycompany.mavendriver;
 
-import com.mycompany.CourseProgramme;
-import com.mycompany.Module;
-import com.mycompany.Student;
-
 /**
  *
  * @author I330151
